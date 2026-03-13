@@ -1,89 +1,85 @@
-# 🚀 Pedro Augusto
+<!-- HEADER -->
 
-### Front-End Developer | React Specialist | UI Engineering
+<h1 align="center">
+Pedro Augusto
+</h1>
 
-[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-000?style=for-the-badge)](https://pedroaugustodev.netlify.app/)
-[![Devssystems](https://img.shields.io/badge/🏢%20Devssystems-111?style=for-the-badge)](https://devssystems.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pedro-augusto-576470236/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedroafmcampos@gmail.com)
+<p align="center">
+Frontend Engineer • React Developer • UI Builder
+</p>
 
----
+<p align="center">
 
-## 👨‍💻 Sobre mim
+<a href="https://pedroaugustodev.netlify.app/" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 
-Sou **Desenvolvedor Front-End especializado na criação de aplicações web modernas, rápidas e escaláveis**.
+<a href="https://devssystems.netlify.app/" target="_blank">
+<img src="https://img.shields.io/badge/DevsSystems-111?style=for-the-badge"/>
+</a>
 
-Tenho foco em:
+<a href="https://www.linkedin.com/in/pedro-augusto-576470236/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
 
-- Interfaces modernas
-- Experiência do usuário (UX/UI)
-- Performance de aplicações
-- Automação e integração de sistemas
+<a href="mailto:pedroafmcampos@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-Também sou fundador da **Devssystems**, onde desenvolvo soluções digitais, sistemas e automações.
-
----
-
-# 🚀 Tech Stack
-
-![React](https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react)
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript)
-![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
+</p>
 
 ---
 
-# ⚡ Ferramentas
+<p align="center">
 
-![Node](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js)
-![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)
-![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux)
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=React+Developer;Frontend+Engineer;Building+Modern+Web+Apps;Startup+Mindset"/>
 
----
-
-# 📊 GitHub Stats
-
-![Pedro GitHub stats](https://github-readme-stats.vercel.app/api?username=DomPedrinacio&show_icons=true&theme=tokyonight)
+</p>
 
 ---
 
-# 📈 Linguagens mais usadas
+## Stack
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DomPedrinacio&layout=compact&theme=tokyonight)
+<p>
 
----
+<img src="https://skillicons.dev/icons?i=react,js,ts,python,nodejs,git,github,vscode,linux"/>
 
-# ⚡ Atividade
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DomPedrinacio&theme=tokyo-night)
+</p>
 
 ---
 
-# 🐍 Contribuições
+## Activity
 
-![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
+<p align="center">
 
----
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=DomPedrinacio&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-# 🚀 Projetos
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DomPedrinacio&layout=compact&theme=tokyonight&hide_border=true"/>
 
-### 🌐 Portfolio
-https://pedroaugustodev.netlify.app/
-
-### 🏢 Devssystems
-https://devssystems.netlify.app/
+</p>
 
 ---
 
-# 📫 Contato
+<p align="center">
 
-📧 Email  
-pedroafmcampos@gmail.com  
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DomPedrinacio&theme=tokyo-night&hide_border=true"/>
 
-💼 LinkedIn  
-https://www.linkedin.com/in/pedro-augusto-576470236/
+</p>
 
 ---
 
-⭐ Se algum projeto te ajudar, considere deixar uma **star**!
+## Projects
+
+**Portfolio**  
+<a href="https://pedroaugustodev.netlify.app/" target="_blank">pedroaugustodev.netlify.app</a>
+
+**DevsSystems**  
+<a href="https://devssystems.netlify.app/" target="_blank">devssystems.netlify.app</a>
+
+---
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=DomPedrinacio&color=blue&style=flat"/>
+
+</p>

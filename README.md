@@ -1,7 +1,7 @@
 <!-- HEADER -->
 
 <h1 align="center">
-Pedro Augusto
+Pedro Campos
 </h1>
 
 <p align="center">

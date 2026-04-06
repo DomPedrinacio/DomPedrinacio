@@ -71,7 +71,7 @@ Frontend Engineer • React Developer • UI Builder
 ## Projects
 
 **Portfolio**  
-<a href="https://pedrocdev.netlify.app/" target="_blank">pedroaugustodev.netlify.app</a>
+<a href="https://pedrocdev.netlify.app/" target="_blank">pedrocdev.netlify.app</a>
 
 **DevsSystems**  
 <a href="https://devssystems.netlify.app/" target="_blank">devssystems.netlify.app</a>
